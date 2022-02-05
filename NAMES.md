@@ -31,4 +31,4 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
-[motolani cephas](https://github.com/motolanicephas)
+[Motolani cephas](https://github.com/Motolanicephas)
